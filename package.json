@@ -1,0 +1,23 @@
+{
+  "name": "code-runner-action",
+  "version": "1.0.0",
+  "description": "Github action to run code snippets from issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "action"
+  ],
+  "author": "Anurag Hazra <hazru.anurag@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@actions/core": "^1.2.3",
+    "@actions/github": "^2.1.1",
+    "actions-toolkit": "^3.0.1",
+    "dotenv": "^8.2.0",
+    "markdown-parser": "0.0.8",
+    "vm2": "^3.8.4"
+  }
+}

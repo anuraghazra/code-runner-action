@@ -1,0 +1,8 @@
+name: 'Code Runner Action'
+description: 'Github action to run code snippets from issues'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
+branding:
+  icon: box
+  color: gray-dark
