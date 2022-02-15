@@ -18,6 +18,6 @@
     "actions-toolkit": "^3.0.1",
     "dotenv": "^8.2.0",
     "markdown-parser": "0.0.8",
-    "vm2": "^3.8.4"
+    "vm2": "^3.9.6"
   }
 }
